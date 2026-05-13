@@ -1,0 +1,78 @@
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "SOP3zT2dWyLJBwTcg+RcEeE5wLPHDc31jRZ0aJOb33s="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "lmhIEGK8Uj+mCbnkVxAVLq6QbpkpSMz9vmYGldsxqwc="
+      }
+    },
+    "pairingEphemeralKeyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "8BcTqiazAPvuYSHZjbhXv4R4RF0VBNlx6jK7saHCDXI="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "KgWYBCn+FhBrhuENbBxPGj3s6jg/+iYE8HnyOJFD90U="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "mJZLWzwOrIqm5o1SV8bxsPKB5SryFkIqwkTXDHJc12U="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "LIK+7QMnrGUKZuWK26jH/bZ7tKjT/d3SxgmBoHxpemM="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "iPvVPLW0oyxonYaGqQPO9XZ2ssWglZNLR5mo3ezMrGI="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "jxRdEMb5TOEuDVLQTNzl98uS/zqn1yZq7fY6aUeYdwY="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "xGD7w+XcjxJ++irq9FtjJwJnPh6X+606EF+X2sE3RAwFviiq76ouLEJaYSyTmiRqMlOA4cHs4x1aGmkoJA+zBA=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 179,
+    "advSecretKey": "TpBaIey/tQ5hCUcL0/FtRF8qHRnKYBjGWMEOMlmXffk=",
+    "processedHistoryMessages": [],
+    "nextPreKeyId": 1,
+    "firstUnuploadedPreKeyId": 1,
+    "accountSyncCounter": 0,
+    "accountSettings": {
+      "unarchiveChats": false
+    },
+    "deviceId": "z9Z62PssT5yXvZghNpu4lg",
+    "phoneId": "b09608a1-e0b4-4fb8-b246-84c438a745b4",
+    "identityId": {
+      "type": "Buffer",
+      "data": "Ud8OK8wvmNFwoET2Emg1LeFy1bc="
+    },
+    "registered": false,
+    "backupToken": {
+      "type": "Buffer",
+      "data": "zfgd4KcezaT0+gd4p/l3ujBU7Dk="
+    },
+    "registration": {},
+    "pairingCode": "PXD6D39G",
+    "me": {
+      "id": "94704302474@s.whatsapp.net",
+      "name": "~"
+    }
+  },
+  "keys": {}
+}
