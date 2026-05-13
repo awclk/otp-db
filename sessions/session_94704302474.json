@@ -48,7 +48,7 @@
       "keyId": 1
     },
     "registrationId": 66,
-    "advSecretKey": "OCZXxvtp9Dxc2mwEytnZoDKYxcitGMfu//oCJ3CfQD0=",
+    "advSecretKey": "UVfHaD5B5hd0OBOC24dR8vRELuuZz4RWdITxyyHGFrY=",
     "processedHistoryMessages": [],
     "nextPreKeyId": 1,
     "firstUnuploadedPreKeyId": 1,
@@ -62,7 +62,7 @@
       "type": "Buffer",
       "data": "e2SuX+KyCGWKHfYHNgIa+Y2rztg="
     },
-    "registered": false,
+    "registered": true,
     "backupToken": {
       "type": "Buffer",
       "data": "81/wPiK8FjvgX44QdkLrmsiQYRQ="
@@ -70,9 +70,28 @@
     "registration": {},
     "pairingCode": "XC5QPJZV",
     "me": {
-      "id": "94704302474@s.whatsapp.net",
-      "name": "~"
-    }
+      "id": "94704302474:17@s.whatsapp.net",
+      "lid": "108298271494267:17@lid"
+    },
+    "account": {
+      "details": "CK3NrYkFEOHmk9AGGAYgACgA",
+      "accountSignatureKey": "+MaIupp4G2VGwJbDH6iINwvGg46x69KdPog5zhB1vHE=",
+      "accountSignature": "j5s50vVYZc5GDj8Hve7PPiwIXdBQIcgDT1cdCw+vp9s+GtAJdo9sSaZa+rWHoLNGoum3P486OuutaNvChV8KDg==",
+      "deviceSignature": "AYKYzSzICK2wOKLByl6AVfSYmH8r54beDshaR1o6OyPNhhcGlm1UTy1WhEDOzRKTnN7y4Ysn6uYPpw+OpTTHBQ=="
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "94704302474:17@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "BfjGiLqaeBtlRsCWwx+oiDcLxoOOsevSnT6IOc4Qdbxx"
+        }
+      }
+    ],
+    "platform": "android"
   },
   "keys": {}
 }
